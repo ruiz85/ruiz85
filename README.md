@@ -73,19 +73,6 @@ Plataforma para gestión y venta de boletos para eventos.
 
 ---
 
-# 📈 Estadísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ruiz85&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruiz85&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-
 # 🌱 Actualmente aprendiendo
 
 - Arquitectura de Software
