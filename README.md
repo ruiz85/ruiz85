@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <h1 align="center">
-👋 ¡Hola! Soy Mauricio Ruiz Morales
+👋 ¡Hola! Soy Mauricio Ruiz
 </h1>
 
 <h3 align="center">
